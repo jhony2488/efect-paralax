@@ -1,1 +1,1 @@
-# efect-paralax
+# Efeito paralax( efect paralax)
