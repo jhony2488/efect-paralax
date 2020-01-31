@@ -2,4 +2,4 @@
 
 ## Video demonstrativo(demo video):
 
-![alt text](https://github.com/jhony2488/efect-paralax/blob/master/paralax.gif"Video demonstrativo")
+![alt text](https://github.com/jhony2488/efect-paralax/blob/master/paralax.gif "Video demonstrativo")
